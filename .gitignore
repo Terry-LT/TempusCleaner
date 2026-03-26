@@ -1,0 +1,24 @@
+# Build files
+build/
+*.exe
+*.out
+*.o
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build
+x64/
+Debug/
+Release/
